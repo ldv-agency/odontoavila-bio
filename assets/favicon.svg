@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <defs>
+    <linearGradient id="toothGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#DD2C7A"/>
+      <stop offset="100%" stop-color="#B71F63"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="16" fill="url(#toothGrad)"/>
+  <path d="M32 14C24 14 18 19 18 26C18 31 20 37 23 44C24.5 47.5 27 50 28.5 50C30 50 30.5 46 32 46C33.5 46 34 50 35.5 50C37 50 39.5 47.5 41 44C44 37 46 31 46 26C46 19 40 14 32 14ZM26 24C27.1 24 28 24.9 28 26C28 27.1 27.1 28 26 28C24.9 28 24 27.1 24 26C24 24.9 24.9 24 26 24Z" fill="#FFFFFF"/>
+</svg>
